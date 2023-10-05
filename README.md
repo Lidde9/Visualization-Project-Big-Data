@@ -1,4 +1,5 @@
-<img width="1169" alt="image" src="https://github.com/Lidde9/Visualization-Project-Big-Data/assets/127693321/1bd36bce-419c-4ed4-9d30-514bdfb0aac0">
+<img width="1107" alt="image" src="https://github.com/Lidde9/Visualization-Project-Big-Data/assets/127693321/d1c77613-b270-4d3d-966f-df73dd3ca76e">
+
 
 # Visualization Project
 
@@ -22,7 +23,8 @@ Cleaning, merging, categorizing and relabbeling data
 Visualizing data using various libraries and plot types
 The end result is summarised in a presentation.
 
+<img width="1109" alt="image" src="https://github.com/Lidde9/Visualization-Project-Big-Data/assets/127693321/b13b8548-df90-4ebe-be45-a1c167611ff6">
 
-<img width="1110" alt="image" src="https://github.com/Lidde9/Visualization-Project-Big-Data/assets/127693321/b7d520a1-d981-4eae-bae3-34ada22ac934">
+<img width="1106" alt="image" src="https://github.com/Lidde9/Visualization-Project-Big-Data/assets/127693321/dbb0de98-e107-4a9f-b38b-f3a2951f8b00">
 
-<img width="1110" alt="image" src="https://github.com/Lidde9/Visualization-Project-Big-Data/assets/127693321/e0794a3f-11f2-4a88-8385-21d9240efe0f">
+
